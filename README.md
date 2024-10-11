@@ -2,6 +2,8 @@
 
 This is the official repo for A Novel Dimension-augmented Transformer Framework for Multivariate Time Series Forecasting (Daformer).
 
+Paper Link: https://link.springer.com/chapter/10.1007/978-981-97-5666-7_15
+
 ## Model Overview
 
 ![overall](https://raw.githubusercontent.com/qiuyueli123/Daformer/main/pic/overall.png)
